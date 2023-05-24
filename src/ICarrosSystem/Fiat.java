@@ -1,7 +1,7 @@
 package ICarrosSystem;
 
 public class Fiat extends Carro{
-    public Fiat(String marca, String cor, int ano, int portas, double valor, double velocidade){
+    public Fiat(String marca, String cor, int ano, int portas, double valor, double velocidade) {
         super("Fiat", cor, ano, portas, valor, 3);
 
     }

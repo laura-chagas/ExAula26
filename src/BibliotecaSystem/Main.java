@@ -14,6 +14,10 @@ public class Main {
         System.out.println("---------------------");
         livro3.registrarLivro(654321, "Os Sete","Fantasia");
         System.out.println("---------------------");
+        livro3.registrarLivro(654321, "A Culpa é das Estrelas","Romance");
+        System.out.println("---------------------");
+        livro3.registrarLivro(654321, "A Parte que falta","Aventura");
+        System.out.println("---------------------");
         livro4.registrarLivro(859508, "O Hobbit", "Fantasia", "J.R.R. Tolkien");
 
 
